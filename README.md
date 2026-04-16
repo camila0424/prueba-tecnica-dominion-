@@ -14,8 +14,13 @@ Indicador visual de fortaleza de contraseña mediante algoritmos de evaluación.
 Función "Copiar al portapapeles" y toggle de visibilidad.
 
 Lo más destacado: Incluye una suite completa de pruebas unitarias con Vitest para asegurar que la lógica de generación y validación es infalible.
-<img width="667" height="685" alt="image" src="https://github.com/user-attachments/assets/e1b511b7-e0ee-4541-b9f4-a3abb1466c9b" />
-[Ver Demo en Vivo](https://generador-de-clave-segura.vercel.app/)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e1b511b7-e0ee-4541-b9f4-a3abb1466c9b" width="500">
+
+
+<a href="https://generador-de-clave-segura.vercel.app/">🔗 Ver Demo en Vivo</a>
+</p>
 
 2. Explorador de Posts (Consumo de API REST)
 Aplicación que gestiona datos asíncronos utilizando la API de JSONPlaceholder.
@@ -28,8 +33,14 @@ Sistema de filtrado lógico (simulación de posts publicados/borradores).
 
 Navegación entre lista general y detalle de entrada mediante parámetros de URL (URLSearchParams).
 
-Manejo de estados de carga y errores de red. <img width="982" height="838" alt="image" src="https://github.com/user-attachments/assets/c52d9320-6be7-4540-9aa7-c4e7e4af5ccb" />
-[Ver Demo en Vivo](https://llamadas-api-y-mapeo-de-datos.vercel.app/)
+Manejo de estados de carga y errores de red. 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c52d9320-6be7-4540-9aa7-c4e7e4af5ccb" width="600">
+
+
+<a href="https://llamadas-api-y-mapeo-de-datos.vercel.app/">🔗 Ver Demo en Vivo</a>
+</p>
 
 3. Calculadora Científica Modular
 Una calculadora funcional con soporte para operaciones aritméticas básicas y funciones trigonométricas/científicas.
@@ -55,8 +66,12 @@ Unit Testing: Implementación de tests unitarios para garantizar la calidad del 
 
 UI/UX: Diseño moderno con CSS3, variables visuales para feedback (colores de seguridad) y accesibilidad básica.
 
-<img width="473" height="747" alt="image" src="https://github.com/user-attachments/assets/db2396f6-6ca3-4e51-8818-120db3ffba22" />
-[Ver Demo en Vivo](https://calculadora-cientifica-cb.vercel.app/)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/db2396f6-6ca3-4e51-8818-120db3ffba22" width="400">
+
+
+<a href="https://calculadora-cientifica-cb.vercel.app/">🔗 Ver Demo en Vivo</a>
+</p>
 
 📦 Instalación y Uso
 Clonar el repositorio:
