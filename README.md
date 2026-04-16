@@ -1,8 +1,8 @@
-#Proyectos de Lógica y Desarrollo Frontend - JavaScript Moderno
+# Proyectos de Lógica y Desarrollo Frontend - JavaScript Moderno
 
 Este repositorio contiene una colección de tres ejercicios prácticos desarrollados con JavaScript Vanilla, centrados en la manipulación del DOM, el consumo de APIs REST, arquitectura modular y pruebas unitarias.
 
-##🚀 Contenido del Repositorio
+## Contenido del Repositorio
 
 **1. Generador de Contraseñas Seguras (con Testing)**
 Una herramienta robusta para generar credenciales seguras siguiendo estándares de ciberseguridad.
@@ -59,7 +59,7 @@ Manejo de errores matemáticos (ej. división por cero o raíces negativas).
 
 Diseño responsivo y amigable basado en CSS Grid.
 
-##🛠️ Tecnologías y Conceptos Aplicados
+##  Tecnologías y Conceptos Aplicados
 
 JavaScript ES6+: Uso de módulos (import/export), map, filter, arrow functions y template literals.
 
@@ -78,7 +78,7 @@ UI/UX: Diseño moderno con CSS3, variables visuales para feedback (colores de se
 <a href="https://calculadora-cientifica-cb.vercel.app/">🔗 Ver Demo en Vivo</a>
 </p>
 
-##📦 Instalación y Uso
+##  Instalación y Uso
 
 Clonar el repositorio:
 
@@ -93,7 +93,7 @@ npm test
 Ejecución local:
 Puedes abrir los archivos index.html directamente en tu navegador o usar la extensión Live Server en VS Code para una mejor experiencia con los módulos de JavaScript.
 
-##👤 Autor
+##  Autor
 
 Camila Bedoya
 
