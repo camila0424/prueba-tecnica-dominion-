@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generador de Contraseñas</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Generador de Contraseñas Seguras</h1>
+
+      <form id="password-form">
+        <div class="field">
+          <label for="length">Longitud de la contraseña (8-20):</label>
+          <input type="text" id="length" value="12" />
+        </div>
+
+        <fieldset>
+          <legend>Opciones:</legend>
+          <label>
+            <input type="checkbox" id="uppercase" checked /> Mayúsculas
+          </label>
+          <label>
+            <input type="checkbox" id="lowercase" checked /> Minúsculas
+          </label>
+          <label>
+            <input type="checkbox" id="numbers" checked /> Números
+          </label>
+          <label>
+            <input type="checkbox" id="symbols" /> Caracteres especiales
+          </label>
+        </fieldset>
+
+        <button type="button" id="generate-btn">Generar Contraseña</button>
+      </form>
+
+      <div id="result" class="result hidden">
+        <div class="password-row">
+          <p id="password-output"></p>
+          <button type="button" id="toggle-btn" class="toggle-btn">👁️</button>
+        </div>
+        <div id="strength-indicator">
+          <span>Fuerza:</span>
+          <span id="strength-label"></span>
+          <div class="strength-bar">
+            <div id="strength-fill"></div>
+          </div>
+        </div>
+        <button type="button" id="copy-btn">Copiar</button>
+        <span id="copy-feedback" class="hidden">¡Copiado!</span>
+      </div>
+
+      <p id="error-message" class="error hidden"></p>
+    </main>
+
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>
