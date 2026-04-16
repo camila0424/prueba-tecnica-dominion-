@@ -1,8 +1,8 @@
-Proyectos de Lógica y Desarrollo Frontend - JavaScript Moderno
+#Proyectos de Lógica y Desarrollo Frontend - JavaScript Moderno#
 Este repositorio contiene una colección de tres ejercicios prácticos desarrollados con JavaScript Vanilla, centrados en la manipulación del DOM, el consumo de APIs REST, arquitectura modular y pruebas unitarias.
 
-🚀 Contenido del Repositorio
-1. Generador de Contraseñas Seguras (con Testing)
+##🚀 Contenido del Repositorio##
+###1. Generador de Contraseñas Seguras (con Testing)###
 Una herramienta robusta para generar credenciales seguras siguiendo estándares de ciberseguridad.
 
 Características: - Validación de longitud (8-20 caracteres).
@@ -22,7 +22,7 @@ Lo más destacado: Incluye una suite completa de pruebas unitarias con Vitest pa
 <a href="https://generador-de-clave-segura.vercel.app/">🔗 Ver Demo en Vivo</a>
 </p>
 
-2. Explorador de Posts (Consumo de API REST)
+###2. Explorador de Posts (Consumo de API REST)###
 Aplicación que gestiona datos asíncronos utilizando la API de JSONPlaceholder.
 
 Características:
@@ -42,7 +42,7 @@ Manejo de estados de carga y errores de red.
 <a href="https://llamadas-api-y-mapeo-de-datos.vercel.app/">🔗 Ver Demo en Vivo</a>
 </p>
 
-3. Calculadora Científica Modular
+###3. Calculadora Científica Modular###
 Una calculadora funcional con soporte para operaciones aritméticas básicas y funciones trigonométricas/científicas.
 
 Características:
@@ -73,7 +73,7 @@ UI/UX: Diseño moderno con CSS3, variables visuales para feedback (colores de se
 <a href="https://calculadora-cientifica-cb.vercel.app/">🔗 Ver Demo en Vivo</a>
 </p>
 
-📦 Instalación y Uso
+##📦 Instalación y Uso##
 Clonar el repositorio:
 
 Bash
@@ -87,7 +87,7 @@ npm test
 Ejecución local:
 Puedes abrir los archivos index.html directamente en tu navegador o usar la extensión Live Server en VS Code para una mejor experiencia con los módulos de JavaScript.
 
-👤 Autor
+##👤 Autor##
 Camila Bedoya
 
 GitHub: (https://github.com/camila0424)
