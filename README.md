@@ -87,19 +87,6 @@ npm test
 Ejecución local:
 Puedes abrir los archivos index.html directamente en tu navegador o usar la extensión Live Server en VS Code para una mejor experiencia con los módulos de JavaScript.
 
-📈 Estructura del Proyecto
-Plaintext
-├── Ejercicio_1_Passwords/
-│   ├── js/             # Lógica y Generador
-│   ├── tests/          # Pruebas con Vitest
-│   └── index.html      # UI
-├── Ejercicio_2_API/
-│   ├── js/             # Consumo de API y Navegación
-│   ├── index.html      # Lista de posts
-│   └── detalle.html    # Vista detallada
-└── Ejercicio_3_Calculadora/
-    ├── js/             # Motor matemático
-    └── index.html      # Interfaz de usuario
 👤 Autor
 Camila Bedoya
 
