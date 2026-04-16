@@ -83,7 +83,7 @@ UI/UX: Diseño moderno con CSS3, variables visuales para feedback (colores de se
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/TU_USUARIO/nombre-del-repo.git
+git clone(https://github.com/camila0424/prueba-tecnica-dominion-.git)
 Para los ejercicios con Testing (Ejercicio 1):
 Asegúrate de tener Node.js instalado, luego ejecuta:
 
@@ -101,4 +101,4 @@ GitHub: (https://github.com/camila0424)
 
 LinkedIn: (https://www.linkedin.com/in/camila-bedoya/)
 
-Este proyecto fue realizado con fines educativos para demostrar habilidades en el desarrollo de aplicaciones web robustas y escalables con JavaScript puro.
+Este proyecto fue realizado con fines educativos para demostrar habilidades en el desarrollo de aplicaciones web robustas y escalables con JavaScript puro, aplicando buenas prácticas de arquitectura, testing y experiencia de usuario.
