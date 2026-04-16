@@ -1,4 +1,5 @@
 *Proyectos de Lógica y Desarrollo Frontend - JavaScript Moderno*
+
 Este repositorio contiene una colección de tres ejercicios prácticos desarrollados con JavaScript Vanilla, centrados en la manipulación del DOM, el consumo de APIs REST, arquitectura modular y pruebas unitarias.
 
 **🚀 Contenido del Repositorio**
