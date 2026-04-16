@@ -1,0 +1,23 @@
+{
+  "name": "prueba-tecnica-dominion-",
+  "version": "1.0.0",
+  "description": "Ejercicios desarrollados con JavaScript Vanilla, HTML y CSS.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camila0424/prueba-tecnica-dominion-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camila0424/prueba-tecnica-dominion-/issues"
+  },
+  "homepage": "https://github.com/camila0424/prueba-tecnica-dominion-#readme",
+  "devDependencies": {
+    "vitest": "^4.1.4"
+  }
+}
